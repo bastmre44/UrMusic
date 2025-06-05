@@ -1,0 +1,230 @@
+ARTIST,LOCATION,POPULAR_SONG,MOOD,GENRE,INFLUENCED_BY,COLLABORATED_WITH,STYLE,DECADE
+Taylor Swift,Estados Unidos,Blank Space,Enamorado,Pop,Shania Twain,"Ed Sheeran, Kendrick Lamar",Pop country,2000s
+Dua Lipa,Reino Unido,Levitating,Bailarin,Pop,Madonna,"Elton John, Post Malone",Pop,2010s
+Olivia Rodrigo,Estados Unidos,drivers license,Triste,Pop,Taylor Swift,"Billy Eilish, Joshua Bassett",Pop rock,2020s
+Billie Eilish,Estados Unidos,bad guy,Enojado,Pop,Lana Del Rey,"Khalid, Travis Scott",Pop alternativo,2010s
+Ariana Grande,Estados Unidos,"Thank U, Next",Triste,Pop,Mariah Carey,"Nicki Minaj, John Legend",Pop R&B,2010s
+Justin Bieber,Canada,Love Yourself,Enamorado,Pop,Michael Jackson,"Ed Sheeran, Diplo",Pop R&B,2000s
+The Weeknd,Canada,Blinding Lights,Bailarin,Pop,Michael Jackson,"Daft Punk, Kendrick Lamar",Synthpop,2010s
+Selena Gomez,Estados Unidos,Lose You to Love Me,Triste,Pop,Britney Spears,"Demi Lovato, Marshmello",Pop electronico,2010s
+Shawn Mendes,Canada,Stitches,Enamorado,Pop,Ed Sheeran,"Camila Cabello, Zedd",Pop rock,2010s
+Camila Cabello,Cuba,Havana,Bailarin,Pop,Shakira,"Pitbull, Pharrell Williams",Pop latino,2010s
+Miley Cyrus,Estados Unidos,Wrecking Ball,Triste,Pop,Christina Aguilera,"Liam Hemsworth, Mark Ronson",Pop rock,2010s
+Katy Perry,Estados Unidos,Roar,Bailarin,Pop,Madonna,"Nicki Minaj, John Legend",Pop,2010s
+Demi Lovato,Estados Unidos,Skyscraper,Triste,Pop,Christina Aguilera,"Nick Jonas, Guillermo del Toro",Pop rock,2010s
+Lady Gaga,Estados Unidos,Bad Romance,Bailarin,Pop,Michael Jackson,"Beyonce, Tony Bennett",Pop electronico,2000s
+Bruno Mars,Estados Unidos,Uptown Funk,Bailarin,Pop,Michael Jackson,"Mark Ronson, Cardi B",Pop funk,2010s
+Adele,Reino Unido,Rolling in the Deep,Triste,Pop,Etta James,"Beyonce, Tobias Jesso Jr.",Soul,2010s
+Sam Smith,Reino Unido,Stay with Me,Triste,Pop,Donny Hathaway,"Mary J. Blige, Jimmy Napes",Pop soul,2010s
+Ed Sheeran,Reino Unido,Shape of You,Bailarin,Pop,Van Morrison,"Beyonce, Khalid",Pop folk,2010s
+Harry Styles,Reino Unido,Sign of the Times,Bailarin,Pop,David Bowie,"Florence Welch, Shania Twain",Pop rock,2010s
+Ricky Martin,Puerto Rico,Livin' la Vida Loca,Bailarin,Latin Pop,Menudo,"Jennifer Lopez, Christina Aguilera",Pop latino,1990s
+Shakira,Colombia,Hips Don't Lie,Bailarin,Latin Pop,Carlos Vives,"Wyclef Jean, Beyonce",Pop latino,2000s
+Enrique Iglesias,Espana,Bailamos,Bailarin,Latin Pop,Julio Iglesias,"Pitbull, Sean Paul",Pop latino,1990s
+J Balvin,Colombia,Mi Gente,Bailarin,Latin Pop,Daddy Yankee,"Beyonce, Willy William","Reggaeton, Pop latino",2010s
+Bad Bunny,Puerto Rico,Caribeño,Bailarin,Latin Pop,Daddy Yankee,"Drake, Cardi B","Trap latino, Pop latino",2010s
+Daddy Yankee,Puerto Rico,Gasolina,Bailarin,Reggaeton,Bob Marley,"Nicki Minaj, Luis Fonsi",Reggaeton clasico,2000s
+Don Omar,Puerto Rico,Danza Kuduro,Bailarin,Reggaeton,Elvis Presley,"Lucenzo, Akon",Reggaeton electronico,2000s
+Wisin & Yandel,Puerto Rico,Noches de Bohemia,Enamorado,Reggaeton,Hector Lavoe,"Romeo Santos, Christina Aguilera",Reggaeton romantico,2000s
+Maluma,Colombia,Felices los 4,Bailarin,Reggaeton,Daddy Yankee,"Shakira, The Weeknd",Reggaeton pop,2010s
+Karol G,Colombia,Tusa,Bailarin,Reggaeton,Shakira,"Nicki Minaj, Ozuna",Pop latino urbano,2010s
+Miles Davis,Estados Unidos,So What,Bailarin,Jazz,Charlie Parker,"John Coltrane, Herbie Hancock",Jazz modal,1950s
+John Coltrane,Estados Unidos,My Favorite Things,Enamorado,Jazz,Miles Davis,"McCoy Tyner, Elvin Jones",Jazz hard bop,1960s
+Ella Fitzgerald,Estados Unidos,It Don't Mean a Thing (If It Ain't Got That Swing),Bailarin,Jazz,Billie Holiday,"Count Basie, Duke Ellington",Jazz swing,1930s
+Billie Holiday,Estados Unidos,Strange Fruit,Triste,Jazz,Bessie Smith,"Thelonious Monk, Charlie Parker",Jazz vocal,1930s
+Louis Armstrong,Estados Unidos,What a Wonderful World,Enamorado,Jazz,Jelly Roll Morton,"Ella Fitzgerald, Bing Crosby",Jazz Dixieland,1920s
+Ludwig van Beethoven,Alemania,Für Elise,Triste,Clasico,Wolfgang Amadeus Mozart,"Franz Liszt, Johannes Brahms",Periodo clasico,1800s
+Wolfgang Amadeus Mozart,Austria,Eine kleine Nachtmusik,Bailarin,Clasico,Johann Sebastian Bach,"Ludwig van Beethoven, Antonio Salieri",Periodo clasico,1700s
+Johann Sebastian Bach,Alemania,Air on the G String,Triste,Clasico,Antonio Vivaldi,"Carl Philipp Emanuel Bach, Johann Christoph Bach",Barroco,1700s
+Frederic Chopin,Polonia,"Nocturne in E-flat Major, Op. 9 No. 2",Triste,Clasico,Franz Schubert,"Franz Liszt, Sergei Rachmaninoff",Romanticismo,1800s
+Pyotr Ilyich Tchaikovsky,Rusia,El Cascanueces,Bailarin,Clasico,Mikhail Glinka,"Maurice Ravel, Igor Stravinsky",Romanticismo,1800s
+Nirvana,Estados Unidos,Smells Like Teen Spirit,Enojado,Alternativo,The Pixies,"Pearl Jam, Foo Fighters",Grunge,1990s
+Radiohead,Reino Unido,Creep,Triste,Alternativo,The Smiths,"Thom Yorke, Jonny Greenwood",Rock alternativo,1990s
+Arctic Monkeys,Reino Unido,I Bet You Look Good on the Dancefloor,Bailarin,Alternativo,The Strokes,"Miles Kane, Alex Turner",Indie rock,2000s
+The Strokes,Estados Unidos,Last Nite,Bailarin,Alternativo,The Velvet Underground,"Yeah Yeah Yeahs, Interpol",Garage rock,2000s
+Foo Fighters,Estados Unidos,Everlong,Triste,Alternativo,Nirvana,"Taylor Hawkins, Nate Mendel",Rock alternativo,1990s
+Romeo Santos,Republica Dominicana,Propuesta Indecente,Enamorado,Bachata,Juan Luis Guerra,"Luis Vargas, Nicki Minaj",Bachata moderna,2000s
+Prince Royce,Estados Unidos,El Aroma de Ti,Enamorado,Bachata,Luis Miguel,"Daddy Yankee, Shakira",Bachata pop,2010s
+Juan Luis Guerra,Republica Dominicana,Burbujas de Amor,Enamorado,Bachata,Ramon Orlando,"Enrique Iglesias, Romeo Santos",Bachata tradicional,1990s
+Aventura,Republica Dominicana,Obsesion,Enamorado,Bachata,Juan Luis Guerra,"Don Omar, Wisin & Yandel",Bachata urbana,2000s
+Monchy & Daddy,Republica Dominicana,Capricho de Mujer,Enamorado,Bachata,Aventura,"Natti Natasha, Daddy Yankee",Bachata urbana,2000s
+Daft Punk,Francia,One More Time,Bailarin,Electronica,Kraftwerk,"The Weeknd, Pharrell Williams",Electro house,1990s
+Skrillex,Estados Unidos,Scary Monsters and Nice Sprites,Bailarin,Electronica,Deadmau5,"Diplo, Justin Bieber",Dubstep,2010s
+Calvin Harris,Reino Unido,We Found Love,Bailarin,Electronica,David Guetta,"Rihanna, Dua Lipa",Electropop,2010s
+Avicii,Suecia,Wake Me Up,Bailarin,Electronica,Tiësto,"Aloe Blacc, Nicky Romero",Progressive house,2010s
+David Guetta,Francia,When I'm Gone,Bailarin,Electronica,Bob Sinclar,"Kelly Rowland, Sia",Electro house,2000s
+BTS,Corea del Sur,Dynamite,Bailarin,K-Pop,Seo Taiji and Boys,"Halsey, Nicki Minaj","Pop dance, EDM",2010s
+Blackpink,Corea del Sur,Ddu-Du Ddu-Du,Bailarin,K-Pop,2NE1,"Dua Lipa, Lady Gaga","K-Pop, EDM",2010s
+Twice,Corea del Sur,Cheer Up,Bailarin,K-Pop,Girls' Generation,"Sana Minatozaki, Momo Hirai","Bubblegum pop, J-Pop",2010s
+Red Velvet,Corea del Sur,Red Flavor,Bailarin,K-Pop,S.E.S.,"Selena Gomez, NCT Dream","Electropop, Bubblegum pop",2010s
+EXO,Corea del Sur,Growl,Bailarin,K-Pop,Super Junior,"ZTao, Chen","R&B, Electronic dance music",2010s
+The Beatles,Reino Unido,Hey Jude,Enamorado,Rock,Elvis Presley,"The Rolling Stones, Elton John",Rock and roll,1960s
+The Rolling Stones,Reino Unido,(I Can't Get No) Satisfaction,Enojado,Rock,Chuck Berry,"Eric Clapton, Jimmy Page","Rock and roll, Blues rock",1960s
+Led Zeppelin,Reino Unido,Stairway to Heaven,Triste,Rock,The Beatles,"Black Sabbath, Deep Purple","Hard rock, Heavy metal",1970s
+Queen,Reino Unido,Bohemian Rhapsody,Triste,Rock,The Beatles,"David Bowie, Elton John","Rock progresivo, Glam rock",1970s
+Pink Floyd,Reino Unido,Wish You Were Here,Triste,Rock,The Beatles,"Radiohead, Coldplay","Rock progresivo, Rock psicodelico",1970s
+Arcade Fire,Canada,Wake Up,Bailarin,Indie,The Smiths,"David Bowie, Win Butler","Indie rock, Rock alternativo",2000s
+The Lumineers,Estados Unidos,Ho Hey,Bailarin,Indie,Mumford & Sons,"Hozier, Nathaniel Rateliff","Folk rock, Americana",2010s
+Bon Iver,Estados Unidos,Skinny Love,Triste,Indie,Sufjan Stevens,"Justin Vernon, Bruce Springsteen","Indie folk, Experimental rock",2000s
+Vampire Weekend,Estados Unidos,A-Punk,Bailarin,Indie,The Strokes,"Paul Simon, Haim","Indie rock, Indie pop",2000s
+St. Vincent,Estados Unidos,Cruel,Bailarin,Indie,David Bowie,"Annie Clark, Jack Antonoff","Art rock, Experimental rock",2000s
+Lil Nas X,Estados Unidos,Montero (Call Me by Your Name),LGBT,Pop,Kanye West,"Miley Cyrus, Elton John",Pop Rap,2010s
+Kim Petras,Alemania,Coconuts,LGBT,Pop,Britney Spears,"Charli XCX, Allie X",Electropop,2010s
+Years & Years,Reino Unido,Shine,LGBT,Indie,Elton John,"Carly Rae Jepsen, Kylie Minogue",Synthpop,2010s
+Olly Murs,Reino Unido,Kiss Me,LGBT,Pop,Robbie Williams,"Demi Lovato, Cher",Pop,2010s
+Troye Sivan, Australia,Blinding Lights,LGBT,Pop,The Weeknd,"Charli XCX, Ariana Grande",Synthpop,2010s
+Frank Ocean,Estados Unidos,Thinkin Bout You,LGBT,Alternativo,Stevie Wonder,"Beyonce, Calvin Harris",R&B,2010s
+Kehlani,Estados Unidos,Nights Like This,LGBT,Alternativo,Aaliyah,"Bryson Tiller, ZHU",R&B,2010s
+MNEK,Reino Unido,Pray for Me,LGBT,Pop,Whitney Houston,"Dua Lipa, Little Mix",Pop,2010s
+Elvis Presley,Estados Unidos,Can't Help Falling in Love,Enamorado,Rock,Chuck Berry,"Johnny Cash, Jerry Lee Lewis",Rock and roll,1950s
+Coldplay,Reino Unido,Viva La Vida,Bailarin,Rock,U2,"Beyoncé, Rihanna",Rock alternativo,2000s
+U2,Irlanda,With or Without You,Enamorado,Rock,The Rolling Stones,"Bruce Springsteen, BB King",Rock,1980s
+Rihanna,Barbados,Diamonds,Bailarin,Pop,Madonna,"Jay-Z, Calvin Harris",Pop R&B,2010s
+Drake,Canada,God's Plan,Bailarin,Pop,Kanye West,"Rihanna, Future",Hip hop,2010s
+Eminem,Estados Unidos,Lose Yourself,Enojado,Alternativo,Dr. Dre,"50 Cent, Rihanna",Rap,2000s
+Lana Del Rey,Estados Unidos,Young and Beautiful,Triste,Alternativo,Nancy Sinatra,"The Weeknd, A$AP Rocky",Dream pop,2010s
+Khalid,Estados Unidos,Location,Enamorado,Pop,Frank Ocean,"Billie Eilish, Normani",R&B,2010s
+Sia,Australia,Chandelier,Triste,Pop,Madonna,"David Guetta, Labrinth",Pop,2010s
+Maroon 5,Estados Unidos,Sugar,Enamorado,Pop,Prince,"Cardi B, Wiz Khalifa",Pop rock,2010s
+Post Malone,Estados Unidos,Circles,Bailarin,Pop,Kanye West,"Ozzy Osbourne, Swae Lee",Pop rap,2020s
+Jennifer Lopez,Estados Unidos,On The Floor,Bailarin,Pop,Gloria Estefan,"Pitbull, Ja Rule",Dance pop,2010s
+Pitbull,Estados Unidos,Timber,Bailarin,Pop,2 Live Crew,"Kesha, Ne-Yo",Dance pop,2010s
+Luis Fonsi,Puerto Rico,Despacito,Enamorado,Pop,Shakira,"Daddy Yankee, Justin Bieber",Pop latino,2010s
+Juanes,Colombia,A Dios le Pido,Enamorado,Rock,Carlos Vives,"Nelly Furtado, Juan Luis Guerra",Rock latino,2000s
+Carlos Vives,Colombia,La Bicicleta,Bailarin,Latin Pop,Celia Cruz,"Shakira, Ricky Martin",Vallenato,2010s
+Gloria Estefan,Cuba,Conga,Bailarin,Latin Pop,Celia Cruz,"Carlos Vives, Shakira",Pop latino,1980s
+Marc Anthony,Estados Unidos,Vivir Mi Vida,Bailarin,Salsa,Celia Cruz,"Jennifer Lopez, Gente de Zona",Salsa,2010s
+Thalia,Mexico,No Me Acuerdo,Bailarin,Latin Pop,Gloria Trevi,"Natti Natasha, Maluma",Pop latino,2010s
+Alejandro Sanz,Espana,Corazón Partío,Triste,Latin Pop,Joan Manuel Serrat,"Shakira, Laura Pausini",Pop latino,1990s
+Laura Pausini,Italia,La Soledad,Triste,Pop,Eros Ramazzotti,"Alejandro Sanz, Andrea Bocelli",Pop,1990s
+Andrea Bocelli,Italia,Con Te Partirò,Triste,Clasico,Luciano Pavarotti,"Sarah Brightman, Laura Pausini",Ópera,1990s
+Sarah Brightman,Reino Unido,Time to Say Goodbye,Triste,Clasico,Andrew Lloyd Webber,"Andrea Bocelli, Ennio Morricone",Ópera,1990s
+Ennio Morricone,Italia,The Ecstasy of Gold,Triste,Clasico,Nino Rota,"Andrea Bocelli, Yo-Yo Ma",Cine,1960s
+Yo-Yo Ma,Estados Unidos,Bach: Cello Suite No. 1,Triste,Clasico,Pablo Casals,"Ennio Morricone, John Williams",Clásico,1990s
+John Williams,Estados Unidos,Star Wars Theme,Bailarin,Clasico,Richard Wagner,"Yo-Yo Ma, Steven Spielberg",Cine,1970s
+Hans Zimmer,Alemania,Time,Triste,Clasico,Ennio Morricone,"James Newton Howard, Pharrell Williams",Cine,2010s
+Pharrell Williams,Estados Unidos,Happy,Bailarin,Pop,Michael Jackson,"Daft Punk, Justin Timberlake",Funk,2010s
+Justin Timberlake,Estados Unidos,Can't Stop the Feeling!,Bailarin,Pop,Michael Jackson,"Madonna, Pharrell Williams",Pop funk,2010s
+Madonna,Estados Unidos,Like a Prayer,Enamorado,Pop,David Bowie,"Justin Timberlake, Britney Spears",Pop,1980s
+Britney Spears,Estados Unidos,Baby One More Time,Enamorado,Pop,Madonna,"Justin Timberlake, Iggy Azalea",Pop,1990s
+Beyoncé,Estados Unidos,Single Ladies,Bailarin,Pop,Michael Jackson,"Jay-Z, Shakira",Pop R&B,2000s
+Jay-Z,Estados Unidos,Empire State of Mind,Bailarin,Alternativo,Notorious B.I.G.,"Alicia Keys, Rihanna",Hip hop,2000s
+Alicia Keys,Estados Unidos,No One,Enamorado,Pop,Stevie Wonder,"Jay-Z, Usher",R&B,2000s
+Usher,Estados Unidos,Yeah!,Bailarin,Pop,Michael Jackson,"Lil Jon, Ludacris",R&B,2000s
+Ludacris,Estados Unidos,Move B***h,Enojado,Alternativo,Outkast,"Usher, Justin Bieber",Rap,2000s
+Eric Clapton,Reino Unido,Tears in Heaven,Triste,Rock,Robert Johnson,"B.B. King, George Harrison",Blues rock,1990s
+George Harrison,Reino Unido,My Sweet Lord,Enamorado,Rock,The Beatles,"Bob Dylan, Eric Clapton",Rock,1970s
+Bob Dylan,Estados Unidos,Like a Rolling Stone,Enojado,Rock,Woody Guthrie,"George Harrison, The Band",Folk rock,1960s
+David Bowie,Reino Unido,Heroes,Enamorado,Rock,Lou Reed,"Queen, Mick Jagger",Glam rock,1970s
+Lou Reed,Estados Unidos,Walk on the Wild Side,Triste,Rock,David Bowie,"John Cale, Nico",Art rock,1970s
+John Cale,Reino Unido,Paris 1919,Triste,Rock,Lou Reed,"Nico, Brian Eno",Art rock,1970s
+Brian Eno,Reino Unido,An Ending (Ascent),Triste,Alternativo,John Cale,"David Bowie, U2",Ambient,1980s
+Mary J. Blige,Estados Unidos,Family Affair,Bailarin,Pop,Aretha Franklin,"U2, Jay-Z",R&B,2000s
+Aretha Franklin,Estados Unidos,Respect,Enojado,Pop,Sam Cooke,"Mary J. Blige, George Michael",Soul,1960s
+Sam Cooke,Estados Unidos,A Change Is Gonna Come,Triste,Pop,Ray Charles,"Aretha Franklin, Otis Redding",Soul,1960s
+Otis Redding,Estados Unidos,(Sittin' On) The Dock of the Bay,Triste,Pop,Sam Cooke,"Carla Thomas, Booker T. & the M.G.'s",Soul,1960s
+Ray Charles,Estados Unidos,Georgia on My Mind,Triste,Pop,Nat King Cole,"Aretha Franklin, Willie Nelson",Soul,1960s
+Nat King Cole,Estados Unidos,Unforgettable,Enamorado,Pop,Frank Sinatra,"Ray Charles, Natalie Cole",Jazz,1950s
+Frank Sinatra,Estados Unidos,Fly Me to the Moon,Enamorado,Clasico,Tony Bennett,"Dean Martin, Sammy Davis Jr.",Jazz,1960s
+Tony Bennett,Estados Unidos,I Left My Heart in San Francisco,Enamorado,Clásico,Frank Sinatra,"Lady Gaga, Barbra Streisand",Jazz,1960s
+Barbra Streisand,Estados Unidos,The Way We Were,Triste,Pop,Judy Garland,"Celine Dion, Tony Bennett",Pop,1970s
+Judy Garland,Estados Unidos,Over the Rainbow,Triste,Clasico,George Gershwin,"Barbra Streisand, Bing Crosby",Jazz,1930s
+Bing Crosby,Estados Unidos,White Christmas,Enamorado,Clasico,Irving Berlin,"Frank Sinatra, Judy Garland",Jazz,1940s
+Celine Dion,Canada,My Heart Will Go On,Triste,Pop,Barbra Streisand,"Peabo Bryson, Ne-Yo",Pop,1990s
+Peabo Bryson,Estados Unidos,A Whole New World,Enamorado,Pop,Luther Vandross,"Celine Dion, Regina Belle",R&B,1990s
+Luther Vandross,Estados Unidos,Dance with My Father,Triste,Pop,Marvin Gaye,"Diana Ross, Whitney Houston",R&B,2000s
+Whitney Houston,Estados Unidos,I Will Always Love You,Triste,Pop,Dolly Parton,"Mariah Carey, Aretha Franklin",R&B,1990s
+Mariah Carey,Estados Unidos,We Belong Together,Enamorado,Pop,Whitney Houston,"Boyz II Men, Jay-Z",R&B,2000s
+Boyz II Men,Estados Unidos,End of the Road,Triste,Pop,The Temptations,"Mariah Carey, Brandy",R&B,1990s
+Brandy,Estados Unidos,The Boy Is Mine,Enojado,Pop,Whitney Houston,"Monica, Boyz II Men",R&B,1990s
+Monica,Estados Unidos,Angel of Mine,Enamorado,Pop,Whitney Houston,"Brandy, Usher",R&B,1990s
+The Temptations,Estados Unidos,My Girl,Enamorado,Pop,Smokey Robinson,"The Four Tops, Marvin Gaye",Soul,1960s
+The Four Tops,Estados Unidos,I Can't Help Myself,Enamorado,Pop,The Temptations,"Marvin Gaye, Diana Ross & The Supremes",Soul,1960s
+Diana Ross & The Supremes,Estados Unidos,Stop! In the Name of Love,Enamorado,Pop,Smokey Robinson,"The Temptations, The Four Tops",Soul,1960s
+Marvin Gaye,Estados Unidos,What's Going On,Enojado,Pop,Sam Cooke,"Tammi Terrell, Diana Ross",Soul,1970s
+Tammi Terrell,Estados Unidos,Ain't No Mountain High Enough,Enamorado,Pop,Marvin Gaye,"Diana Ross, Smokey Robinson",Soul,1960s
+Smokey Robinson,Estados Unidos,The Tracks of My Tears,Triste,Pop,Ray Charles,"The Miracles, Marvin Gaye",Soul,1960s
+The Miracles,Estados Unidos,You Really Got a Hold on Me,Enamorado,Pop,Smokey Robinson,"The Temptations, Marvin Gaye",Soul,1960s
+Duke Ellington,Estados Unidos,In a Sentimental Mood,Triste,Clasico,Billy Strayhorn,"Louis Armstrong, John Coltrane",Jazz,1930s
+Charlie Parker,Estados Unidos,Ornithology,Enamorado,Clasico,Lester Young,"Dizzy Gillespie, Miles Davis",Jazz,1940s
+Dizzy Gillespie,Estados Unidos,A Night in Tunisia,Bailarin,Clasico,Charlie Parker,"John Coltrane, Thelonious Monk",Jazz,1940s
+Thelonious Monk,Estados Unidos,Round Midnight,Triste,Clasico,Duke Ellington,"John Coltrane, Miles Davis",Jazz,1950s
+Herbie Hancock,Estados Unidos,Watermelon Man,Bailarin,Clasico,Miles Davis,"Chick Corea, Wayne Shorter",Jazz,1960s
+Christina Aguilera,Estados Unidos,Genie in a Bottle,Enamorado,Pop,Madonna,"Ricky Martin, Pitbull",Pop,1990s
+Ne-Yo,Estados Unidos,So Sick,Triste,Pop,Usher,"Pitbull, Rihanna",Pop R&B,2000s
+John Mayer,Estados Unidos,Gravity,Triste,Rock,Eric Clapton,"Alicia Keys, Ed Sheeran",Blues rock,2000s
+Beyonce,Estados Unidos,Halo,Enamorado,Pop,Michael Jackson,"Ed Sheeran, Shakira",Pop,2000s
+Halsey,Estados Unidos,Without Me,Triste,Pop,Lorde,"G-Eazy, BTS",Pop,2010s
+Lorde,Nueva Zelanda,Royals,Triste,Indie,David Bowie,"Halsey, Khalid",Indie pop,2010s
+Nancy Sinatra,Estados Unidos,These Boots Are Made for Walkin',Enojado,Pop,Frank Sinatra,"Lana Del Rey, Lee Hazlewood",Pop,1960s
+Lee Hazlewood,Estados Unidos,Some Velvet Morning,Triste,Pop,Nancy Sinatra,"Nancy Sinatra, Duane Eddy",Pop,1960s
+Duane Eddy,Estados Unidos,Rebel Rouser,Enojado,Rock,Chuck Berry,"Lee Hazlewood, The Beach Boys",Rock,1950s
+The Beach Boys,Estados Unidos,Good Vibrations,Enamorado,Rock,Chuck Berry,"The Beatles, The Rolling Stones",Rock,1960s
+Elton John,Reino Unido,Your Song,Enamorado,Pop,The Beatles,"Dua Lipa, Lady Gaga","Pop rock, Piano rock",1970s
+Michael Jackson,Estados Unidos,Billie Jean,Bailarin,Pop,The Jackson 5,"Paul McCartney, Rihanna","Disco, Funk, Pop",1980s
+The Rolling Stones,Reino Unido,Sympathy for the Devil,Enojado,Rock,Chuck Berry, "Mick Jagger, Keith Richards","Rock, Blues rock",1960s
+Eminem,Estados Unidos,Lose Yourself,Enojado,Rap,Dr. Dre, "Rihanna, 50 Cent","Rap, Hip hop",2000s
+The Smiths,Reino Unido,There Is a Light That Never Goes Out,Triste,Alternativo,The Beatles, "Johnny Marr, Andy Rourke","Rock, Indie rock",1980s
+Linkin Park,Estados Unidos,In The End,Enojado,Alternativo, Deftones, "Jay-Z, Kiiara","Alternative metal, Rap rock",2000s
+Kanye West,Estados Unidos,Gold Digger,Bailarin,Hip hop, Jay-Z, "Jamie Foxx, Ray Charles",2010s
+Green Day,Estados Unidos,Basket Case,Enojado,Punk rock, The Ramones,"Billie Joe Armstrong, Mike Dirnt","Punk rock, Pop punk",1990s
+Red Hot Chili Peppers,Estados Unidos,Under The Bridge,Triste,Funk rock, Jimi Hendrix,"Flea, Anthony Kiedis","Funk rock, Alternative rock",1990s
+Fleetwood Mac,Reino Unido,Dreams,Triste,Rock,The Beatles,"Christine McVie, Stevie Nicks","Rock, Pop rock",1970s
+Guns N' Roses,Estados Unidos,Sweet Child O' Mine,Enamorado,Rock, The Rolling Stones,"Slash, Axl Rose","Hard rock, Heavy metal",1980s
+Coldplay,Reino Unido,Viva la Vida,Triste,Rock,U2, "Beyoncé, Rihanna","Alternative rock, Pop rock",2000s
+Panic! At The Disco, Estados Unidos, I Write Sins Not Tragedies, Bailarin, Rock alternativo, My Chemical Romance, "Brendon Urie, Ryan Ross", 2000s
+System Of A Down,Estados Unidos,Toxicity, Enojado, Metal alternativo, Rage Against The Machine, "Serj Tankian, Daron Malakian",2000s
+Rage Against The Machine,Estados Unidos,Killing in the Name,Enojado,Rock alternativo,Public Enemy,"Tom Morello, Zack de la Rocha",1990s
+Twenty One Pilots, Estados Unidos, Stressed Out, Triste, Indie rock, Fall Out Boy, "Josh Dun, Tyler Joseph", 2010s
+Fall Out Boy, Estados Unidos, Sugar, We're Goin Down, Bailarin, Punk rock, Green Day, "Pete Wentz, Patrick Stump", 2000s
+Muse, Reino Unido, Uprising, Bailarin, Rock alternativo, Radiohead, "Matt Bellamy, Chris Wolstenholme", 2000s
+Bring Me The Horizon, Reino Unido, Parasite Eve, Enojado, Metalcore, Bullet for My Valentine, "Oliver Sykes, Lee Malia", 2000s
+My Chemical Romance, Estados Unidos, Helena, Triste, Rock alternativo, The Smashing Pumpkins, "Gerard Way, Frank Iero", 2000s
+Green Day, Estados Unidos, Welcome to Paradise, Enojado, Punk rock, The Ramones, "Billie Joe Armstrong, Mike Dirnt", 1990s
+Blink-182, Estados Unidos, All the Small Things, Bailarin, Pop punk, The Ramones, "Tom DeLonge, Mark Hoppus", 1990s
+SWMRS, Estados Unidos, Lose Lose Lose, Bailarin, Punk rock, Green Day, "Cole Becker, Sean Becker", 2010s
+FIDLAR, Estados Unidos, Cocaine, Enojado, Punk, Black Flag, "Zac Carper, Elvis Kuehn", 2010s
+The White Stripes, Estados Unidos, Seven Nation Army, Enojado, Garage rock, The Sonics, "Jack White, Meg White", 2000s
+Arctic Monkeys, Reino Unido, I Bet You Look Good on the Dancefloor, Bailarin, Indie rock, The Strokes, "Alex Turner, Jamie Cook", 2000s
+Queens of the Stone Age, Estados Unidos, No One Knows, Bailarin, Rock alternativo, Kyuss, "Josh Homme, Nick Oliveri", 2000s
+All Time Low, Estados Unidos, Dear Maria, Count Me In, Enojado, Pop punk, Fall Out Boy, "Alex Gaskarth, Jack Barakat", 2000s
+My Chemical Romance, Estados Unidos, Welcome to the Black Parade, Triste, Rock alternativo, The Smashing Pumpkins, "Gerard Way, Frank Iero", 2000s
+Gorillaz, Reino Unido, Feel Good Inc., Bailarin, Rock alternativo, Blur, "Damon Albarn, Jamie Hewlett", 2000s
+Blink-182, Estados Unidos, What's My Age Again?, Bailarin, Pop punk, The Ramones, "Tom DeLonge, Mark Hoppus", 1990s
+Beck, Estados Unidos, Loser, Triste, Rock alternativo, Nirvana, "Beck Hansen, Justin Meldal-Johnsen", 1990s
+R.E.M., Estados Unidos, Losing My Religion, Triste, Rock alternativo, The Beatles, "Michael Stipe, Mike Mills", 1980s
+Weezer, Estados Unidos, Buddy Holly, Bailarin, Power pop, The Beach Boys, "Rivers Cuomo, Patrick Wilson", 1990s
+Coldplay, Reino Unido, Yellow, Enamorado, Rock alternativo, U2, "Chris Martin, Jonny Buckland", 2000s
+Smashing Pumpkins, Estados Unidos, Today, Triste, Rock alternativo, The Beatles, "Billy Corgan, James Iha", 1990s
+Nirvana, Estados Unidos, Smells Like Teen Spirit, Enojado, Grunge, The Pixies, "Kurt Cobain, Krist Novoselic", 1990s
+Soundgarden, Estados Unidos, Black Hole Sun, Triste, Grunge, Led Zeppelin, "Chris Cornell, Kim Thayil", 1980s
+Alice in Chains, Estados Unidos, Man in the Box, Enojado, Grunge, Black Sabbath, "Layne Staley, Jerry Cantrell", 1980s
+Pearl Jam, Estados Unidos, Jeremy, Triste, Grunge, Neil Young, "Eddie Vedder, Jeff Ament", 1980s
+Audioslave, Estados Unidos, Cochise, Enojado, Rock alternativo, Rage Against the Machine, "Chris Cornell, Tom Morello", 2000s
+Stone Temple Pilots, Estados Unidos, Plush, Enojado, Grunge, Jane's Addiction, "Scott Weiland, Dean DeLeo", 1980s
+Foo Fighters, Estados Unidos, Everlong, Triste, Rock alternativo, Nirvana, "Dave Grohl, Nate Mendel", 1990s
+The Offspring, Estados Unidos, Self Esteem, Enojado, Punk rock, Bad Religion, "Dexter Holland, Noodles", 1980s
+Billy Talent, Canada, Red Flag, Enojado, Punk rock, Rise Against, "Ben Kowalewicz, Ian D'Sa", 2000s
+Sum 41, Canada, Fat Lip, Enojado, Punk rock, NOFX, "Deryck Whibley, Steve Jocz", 1990s
+Rise Against, Estados Unidos, Savior, Enojado, Punk rock, Bad Religion, "Tim McIlrath, Zach Blair", 1990s
+Escape the Fate, Estados Unidos, Not Good Enough for Truth in Cliché, Triste, Post-hardcore, Bullet for My Valentine, "Craig Mabbitt, Robert Ortiz", 2000s
+Bullet for My Valentine, Reino Unido, Tears Don't Fall, Triste, Metalcore, Metallica, "Matt Tuck, Michael Paget", 1990s
+Avenged Sevenfold, Estados Unidos, Bat Country, Enojado, Metalcore, Metallica, "M. Shadows, Synyster Gates", 1990s
+Trivium, Estados Unidos, Like Light to the Flies, Enojado, Metalcore, Metallica, "Matt Heafy, Corey Beaulieu", 1990s
+Killswitch Engage, Estados Unidos, The End of Heartache, Enojado, Metalcore, Shadows Fall, "Jesse Leach, Adam Dutkiewicz", 1990s
+All That Remains, Estados Unidos, Two Weeks, Triste, Metalcore, Shadows Fall, "Phil Labonte, Oli Herbert", 1990s
+As I Lay Dying, Estados Unidos, Nothing Left, Triste, Metalcore, Hatebreed, "Tim Lambesis, Phil Sgrosso", 1990s
+Lamb of God, Estados Unidos, Laid to Rest, Enojado, Groove metal, Pantera, "Randy Blythe, Mark Morton", 1980s
+Slipknot, Estados Unidos, Duality, Enojado, Nu metal, Korn, "Corey Taylor, Mick Thomson", 1980s
+Korn, Estados Unidos, Blind, Triste, Nu metal, Biohazard, "Jonathan Davis, Munky", 1980s
+Deftones, Estados Unidos, My Own Summer (Shove It), Enojado, Alternative metal, Quicksand, "Chino Moreno, Stephen Carpenter", 1980s
+Tool, Estados Unidos, Sober, Enojado, Progressive metal, Alice in Chains, "Maynard James Keenan, Danny Carey", 1980s
+Mastodon, Estados Unidos, Blood and Thunder, Enojado, Sludge metal, Neurosis, "Troy Sanders, Brent Hinds", 2000s
+Gojira, Francia, Stranded, Triste, Groove metal, Sepultura, "Joe Duplantier, Christian Andreu", 1990s
+A Perfect Circle, Estados Unidos, Judith, Triste, Alternative rock, Tool, "Maynard James Keenan, Billy Howerdel", 1990s
+Ghost, Suecia, Square Hammer, Bailarin, Hard rock, Mercyful Fate, "Papas Emeritus, Nameless Ghouls", 2000s
+Opeth, Suecia, Blackwater Park, Triste, Progressive metal, Emperor, "Mikael Åkerfeldt, Martin Mendez", 1990s
+Dream Theater, Estados Unidos, Pull Me Under, Triste, Progressive metal, Rush, "John Petrucci, Mike Portnoy", 1980s
+Rush, Canadá, Tom Sawyer, Bailarin, Progressive rock, Yes, "Geddy Lee, Alex Lifeson", 1970s
+Yes, Reino Unido, Roundabout, Bailarin, Progressive rock, Genesis, "Jon Anderson, Steve Howe", 1970s
+Genesis, Reino Unido, Land of Confusion, Enojado, Progressive rock, Yes, "Phil Collins, Tony Banks", 1970s

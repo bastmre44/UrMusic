@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Resultados | UrMusic</title>
+    <meta charset="UTF-8">
+    <link href="{{ css_url }}" rel="stylesheet" type="text/css">
+    <link href="{{ favicon_url }}" rel="apple-touch-icon" sizes="180x180">
+    <link href="{{ url_for('static', filename='favicon/favicon-32x32.png') }}" rel="icon" sizes="32x32"
+          type="image/png">
+    <link href="{{ url_for('static', filename='favicon/favicon-16x16.png') }}" rel="icon" sizes="16x16"
+          type="image/png">
+    <link href="{{ url_for('static', filename='favicon/site.webmanifest') }}" rel="manifest">
+</head>
+<body class="large-screen">
+
+
+<!-- Scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='main2.js') }}"></script>
+
+
+<div class="background" style="z-index: -1;">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+</div>
+<div id="header">
+    <header>
+        <h1 style="font-size: calc(35px + 0.2vw);"><a href="{{ url_for('index') }}">UrMusic✧</a></h1>
+    </header>
+</div>
+
+<h3>Te recomendamos...</h3>
+
+<div class="card-container">
+    <!-- Las cartas se crean en base al codigo python y javascript  -->
+    <div id="no-recommendations" style="display: none;">
+        <img src="{{ url_for('static', filename='Icons/error404.jpg') }}" alt="Artist not found" style="width: 400px;">
+        <h2>Lo sentimos. No hay recomendaciones para este artista.</h2>
+    </div>
+</div>
+
+
+<div id="feedback" style="display: none;">
+    <p>¿Te gustó esta recomendación?</p>
+    <button id="like-button"><img src="{{ url_for('static', filename='Icons/like-svgrepo-com.svg') }}" alt="Like"
+                                  style="width: 37px; filter: brightness(0) invert(1);"></button>
+    <span id="like-counter">0</span>
+    <button id="dislike-button"><img src="{{ url_for('static', filename='Icons/dislike-svgrepo-com.svg') }}"
+                                     alt="Dislike" style="width: 37px; filter: brightness(0) invert(1);"></button>
+    <span id="dislike-counter">0</span>
+</div>
+<div id="satisfaction-feedback" style="display: none;">
+    <span id="satisfaction-percentage">Porcentaje de satisfacción: </span>
+    <span style="margin: 0 10px;">|</span>
+    <a id="feedback-link"
+       href="https://docs.google.com/forms/d/e/1FAIpQLSdtmFI298e3GBdJomR-QOW_2RU3-c6aVMdPjMpGArXKKWuDJw/viewform?usp=sf_link"
+       target="_blank">Enviar comentario</a>
+</div>
+</body>
+</html>

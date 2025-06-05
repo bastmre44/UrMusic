@@ -1,0 +1,7 @@
+Librerias requeridas para correr el programa de Python:
+
+* Neo4J: pip install neo4j
+* Flask: pip install Flask
+* Flask-Cors: pip install Flask-Cors
+* Spotipy: pip install spotipy
+* Flask SQLite: pip install flask_sqlalchemy
