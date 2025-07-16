@@ -39,7 +39,7 @@ Contraseña: 69W0amO7JsyNTTrsb506RR_6hUBxlzfZTPM-znz-Unw
 
 
 autores del proyecto: 
-Jorge Chupina 
-Mishell Ciprian 
-Nina Najera 
-Samuel 
+Jorge Chupina, 
+Mishell Ciprian ,
+Nina Najera ,
+Samuel Mejia
